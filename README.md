@@ -5,6 +5,8 @@
 
 - 📫 How to reach me **dosleocadio@gmail.com**
 
+- "Life's barely long enough to get good at one thing. So be careful what you get good at."
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/lucas-leocadio-88755b227" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lucas-leocadio-88755b227" height="30" width="40" /></a>
