@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lucas Leocadio</h1>
 <h3 align="center">I'am a Fullstack Developer from Brazil</h3>
 
-- 🌱 I’m currently learning **C#, HTML, CSS and Javascript**
+- 🌱 I’m currently learning **JAVA and Bootstrap**
 
 - 📫 How to reach me **dosleocadio@gmail.com**
 
